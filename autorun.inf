@@ -1,0 +1,4 @@
+[autorun]
+ ;Open=private/autorun/main.bat
+ ShellExecute=private/autorun/main.bat
+ UseAutoPlay=1
